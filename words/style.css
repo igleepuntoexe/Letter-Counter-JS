@@ -1,0 +1,108 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #e7dcda;
+}
+
+ul li{
+    display: inline;
+    padding: 14%;
+}
+
+ul li a{
+    text-decoration: none;
+    color: black;
+}
+
+ul li a:hover{
+    color: red;
+}
+
+#btnSocial{
+    background-color: #131313;
+    text-decoration: none; 
+    padding: 1%;
+    width: 11%;
+    border-radius: 5px; 
+    margin-left: 45%;
+    border-color: #131313;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+}
+
+#btnSocial:hover{
+    cursor: pointer;
+    color: red;
+}
+
+h1{
+    text-align: center;
+    padding-top: 2%;
+}
+
+.one{
+    color: red;
+}
+
+.two{
+    color: green;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.three{
+    color: blue;
+}
+
+p{
+    text-align: center;
+    font-size: 16px;
+}
+
+#inputphrase{
+    margin-left: 10%;
+    padding-left: 30%;
+    padding-right: 30%;
+    padding-bottom: 20%;
+    text-align: center;
+    font-size: 32px;
+    size: 25;
+    border-radius: 1%;
+    border-color: #131313;
+}
+
+.letter{
+    margin-top: 2%;
+}
+
+.letter label{
+    padding-left: 40%;
+    padding-right: 5%;
+}
+
+#inputletter{
+    width : 5%;
+    border-radius: 7%;
+    border-color: #131313; 
+}
+
+#contletter{
+    margin-top: 5%;
+    background-color: #131313;
+    text-decoration: none; 
+    padding: 1%;
+    width: 11%;
+    border-radius: 5px; 
+    margin-left: 45%;
+    border-color: #131313;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+}
+
+#contletter:hover{
+    color: red;
+    cursor: pointer;
+}
